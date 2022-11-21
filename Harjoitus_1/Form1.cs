@@ -9,7 +9,7 @@ namespace Harjoitus_1
 
         private void VaihdaBT_Click(object sender, EventArgs e)
         {
-            OtsikkoLB.Text = "Heippa Maailma";
+            OtsikkoLB.Text = "Heippa Saara!";
         }
     }
 }
